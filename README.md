@@ -1,28 +1,26 @@
-# 👩‍💻 Amanda Evelyn Marques Almeida
+# Sistema de Chamados de Suporte
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-📍 Brasília/DF  
+Projeto desenvolvido para simular o funcionamento básico de um sistema de chamados utilizado em ambientes corporativos de TI.
 
-## Sobre mim
+## Objetivo
 
-Sou estudante de ADS com foco em Suporte Técnico e desenvolvimento. Tenho conhecimentos em Python, JavaScript e versionamento com Git. Busco oportunidade de estágio para aplicar conhecimentos técnicos, contribuir com a equipe e evoluir profissionalmente na área de tecnologia.
+Simular o fluxo de abertura, acompanhamento e atualização de chamados técnicos, aplicando conceitos de lógica de programação e estrutura de dados em Python.
 
-## Competências Técnicas
+## Funcionalidades
+
+- Abertura de chamado
+- Listagem de chamados
+- Atualização de status
+- Definição de prioridade
+- Simulação de ambiente de Service Desk
+
+## Tecnologias Utilizadas
 
 - Python
-- JavaScript
-- HTML & CSS
-- Git
-- Lógica de Programação
-- Noções de Banco de Dados
-- Sistemas Operacionais Windows
-
-## Projetos
-
-🔹 Sistema de Chamados de Suporte (Python)  
-🔹 Sistema de Cadastro de Usuários  
-🔹 Página Web Simples de Atendimento  
+- Estruturas de dados (listas e dicionários)
+- Funções
+- Controle de fluxo
 
 ---
 
-Aberta a oportunidades de estágio em TI, Suporte Técnico ou Service Desk.
+Desenvolvido por Amanda Evelyn Marques Almeida
